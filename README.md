@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hussme
+El nombre se origina a partir de la palabra casa en sueco, se podria decir que estrictamente casi como de decir CasaMe. Y si por que lo que queremos en Hussme es que encuentres un lugar donde te sientas comodo, que sea tu espacio, tu casa, tu hogar.
+
+Para ello ponemos a disposicion de nuestros clientes la mejor plataforma web cuyas ventajas y funcionalidades garantizaran que te sientas en casa.
+
+Y si lo que quieres es rentar tu casa o departamento, tambien entendemos que para ti es lo mas importante tu patrimonio y que al ponerlo en nuestras manos, quedaras
+tranquilo de que nosotros nos encargaremos de todo lo relacionado con el.
 
 <!--
 **hussme/hussme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
